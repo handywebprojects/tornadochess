@@ -1,0 +1,2 @@
+echo executing module $1
+python -m $@

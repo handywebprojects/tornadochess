@@ -1,0 +1,15 @@
+
+/test*
+
+/backup/*
+
+*.swp
+
+s/toenv.bat
+
+__pycache__/
+
+/.vscode/*
+
+/firebase/sacckey*
+

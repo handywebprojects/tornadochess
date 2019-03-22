@@ -1,0 +1,5 @@
+rm -rf .git
+git init
+cp config .git
+b/rm utils.gm -d --recreate
+b/c Initial commit
